@@ -58,7 +58,6 @@ header ul li img {
 }
 /* Header end here */
 
-/* Fourth main section start here */
 
 .fourth-main-section-wrapper {
     display: flex;
@@ -66,22 +65,7 @@ header ul li img {
     justify-content: space-between;
     background: #fff;
 }
-.left-side-wrapper{
-    height: 580px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    text-align: center;
-    width: 48.5%;
-    margin: 1% 0.5% 0% 1%;
-    padding: 54px;
-}
 
-
-
-.fourth-main-section-wrapper .left-side-wrapper {
-    background-image: url("../images/home/watch-series-5.jpg");
-}
 
 .right-side-wrapper{
     height: 580px;
