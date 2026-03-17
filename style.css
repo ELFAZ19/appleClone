@@ -1,0 +1,39 @@
+first-section-wrapper{
+  background: #fafafa;
+  text-align: center;
+  padding: 25px 0;
+}
+.links-wrapper ul{
+  list-style: none;
+}
+.model{
+  font-size: .85em;
+}
+.Product-title{
+  font-weight: 700;
+  font-size: 56px;
+}
+.brief-description{
+  font-size: 56px;
+}
+.links-wrapper{
+  padding: 15px 0;
+}
+
+.links-wrapper ul li{
+  display: inline-block;
+  padding-right: 20px;
+}
+.links-wrapper ul li a {
+  color: #06c;
+  text-decoration: none;
+}
+.links-wrapper ul li a:hover{
+  color: #000;
+}
+.links-wrapper ul li a:after{
+  font-family: "FontAwesome";
+  content: "\f105";
+  font-weight: 900;
+  padding-left: 10px;
+}
